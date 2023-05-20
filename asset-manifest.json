@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c44f122d.css",
+    "main.js": "/static/js/main.504350db.js",
+    "static/js/787.cb3cdc43.chunk.js": "/static/js/787.cb3cdc43.chunk.js",
+    "static/media/Background.png": "/static/media/Background.f7e97f560bf9534ae5a4.png",
+    "static/media/Group 1127.png": "/static/media/Group 1127.4ac9b344070b3e7715d9.png",
+    "static/media/Car2.png": "/static/media/Car2.2ec7c1bb5e28027867e8.png",
+    "static/media/Car3.png": "/static/media/Car3.12b9f2ac650964caa3de.png",
+    "static/media/Car5.png": "/static/media/Car5.59e25975e5daa0055e2f.png",
+    "static/media/CTA BG.png": "/static/media/CTA BG.c1eaf2ce58a73631a7de.png",
+    "static/media/Car4.png": "/static/media/Car4.bbb1d57e57e2580f0708.png",
+    "static/media/Car8.png": "/static/media/Car8.294e418b588f6bbb3627.png",
+    "static/media/Car1.png": "/static/media/Car1.0751c58d7aeb68c8c591.png",
+    "static/media/Car7.png": "/static/media/Car7.29d99f7f611b05d87ac6.png",
+    "static/media/Car6.png": "/static/media/Car6.749f5860ddae07eb5735.png",
+    "static/media/Tesla.png": "/static/media/Tesla.d1067b2fe975330f7be6.png",
+    "static/media/cardcar.png": "/static/media/cardcar.b16b5746ad1588889b48.png",
+    "static/media/img7.png": "/static/media/img7.8bef5f07cd33ec6bc1e6.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.c44f122d.css.map": "/static/css/main.c44f122d.css.map",
+    "main.504350db.js.map": "/static/js/main.504350db.js.map",
+    "787.cb3cdc43.chunk.js.map": "/static/js/787.cb3cdc43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c44f122d.css",
+    "static/js/main.504350db.js"
+  ]
+}
